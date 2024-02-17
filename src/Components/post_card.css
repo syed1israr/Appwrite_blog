@@ -1,0 +1,7 @@
+.post_card{
+    transition: all ease-in 0.5s;
+    color: white;
+}
+.post_card:hover{
+    transform: scale(1.09);
+}

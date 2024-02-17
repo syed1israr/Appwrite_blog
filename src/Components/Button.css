@@ -1,0 +1,12 @@
+button{
+    transition: all ease-in-out 0.5s;
+    border-radius: 10px;
+    object-fit: contain;
+    
+}
+button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    
+}
